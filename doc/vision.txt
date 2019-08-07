@@ -1,0 +1,23 @@
+Das Pointer Framework  hebt alle Objekte, die Unmittelbar in nähe der Maus sind hervor.
+Text, Buttons verändern den Farbton
+Grafiken Bewegen sich
+Objekte entpacken sich
+
+Es gibt 2 Unterframeworks
+Die statische , wie oben
+Die Dynamische, welche nur ihre Transparenz ändert -> Menü
+
+Menüoptionen
+Mauspos
+A.Requests
+Unix Zeit
+Zeit auf der Seite
+installiierte Plugins [Liste]
+Generierende Werte(Account(Passwort, Name))
+Beschreibungen
+
+Bei Überlagerung setzt Transparenz ein
+Dabei wird die Hintergrundfarbe übernommen(Blur Rechtecke) / beibehalten(Inhalt Recheckig blur ausgeblendet)
+
+Spiel:
+mit dem Hue spielen und das Menü während dem Aufruf Leuchten lassen -> wunderschöner HUE Effekt (LavaLampe)
